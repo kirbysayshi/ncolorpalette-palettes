@@ -1,0 +1,27 @@
+{
+  "name": "ncolorpalette-palettes",
+  "version": "0.0.0",
+  "description": "Palettes (pixel datas) that power the ncolorpalette and friends.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kirbysayshi/ncolorpalette-palettes.git"
+  },
+  "keywords": [
+    "palette",
+    "ncolor",
+    "dbz",
+    "kirby",
+    "gameboy",
+    "pixel"
+  ],
+  "author": "Drew Petersen <kirbysayshi@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kirbysayshi/ncolorpalette-palettes/issues"
+  },
+  "homepage": "https://github.com/kirbysayshi/ncolorpalette-palettes"
+}
